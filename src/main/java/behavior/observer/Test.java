@@ -1,6 +1,8 @@
 package behavior.observer;
 
 /**
+ * 观察者模式
+ *
  * @author Fang Qing
  * @date 2019/5/30 15:37
  */
